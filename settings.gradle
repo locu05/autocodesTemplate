@@ -1,4 +1,4 @@
-include ':ListViewAnimations-manipulation'
+include ':ListViewAnimations-manipulation', ':autocodesfromscratch'
 include ':CircularProgressButton'
 include ':StickyListHeaders'
 include ':ListViewAnimations-core'
